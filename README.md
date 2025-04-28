@@ -13,7 +13,7 @@ This project demonstrates manual configuration of core AWS services, including:
 - Uploaded a sample file to validate storage functionality and bucket access controls.
 
 ## Screenshots
-(Located inside the `/screenshots` folder)
+(Located inside the `/screenies` folder)
 - EC2 Dashboard: Running Instance
 - SSH Terminal Session: Connected to EC2
 - S3 Bucket: Uploaded File Display
